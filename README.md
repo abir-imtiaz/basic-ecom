@@ -1,2 +1,3 @@
 # basic-ecom
-basic ecommerce
+
+basic ecommerce instruction
